@@ -1,0 +1,13 @@
+{
+    "name": "qiaodan/demo",
+    "description": "test project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "qiaodan",
+            "email": "849557066@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
